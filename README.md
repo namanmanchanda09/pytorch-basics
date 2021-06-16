@@ -1,2 +1,3 @@
 # pytorch-basics
-Learning PyTorch
+Learning DL using PyTorch
+
