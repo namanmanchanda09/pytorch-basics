@@ -3,7 +3,7 @@ This is a collection of PyTorch resources that I wrote/compiled while learning.
 
 1. For basics and learning tensor operations - [PyTorch 101](https://www.kaggle.com/namanmanchanda/pytorch-101).
 2. To understand Gradient Descent practially - [Gradient Descent 101](https://www.kaggle.com/namanmanchanda/gradient-descent-101).
-3. Linear Regression from Scratch - [Linear Regression Scratch]()
+3. Linear Regression from Scratch - [Linear Regression Scratch](https://github.com/namanmanchanda09/pytorch-basics/blob/main/Codes/LinearRegressionScratch.py)
 4. Linear Regression in PyTorch - [Linear Regression](https://github.com/namanmanchanda09/pytorch-basics/blob/main/Notebooks/Linear%20Regression.ipynb).
 5. ANN without embeddings - [ANN](https://github.com/namanmanchanda09/pytorch-basics/blob/main/Codes/ANN.py).
 6. ANN Regression with embeddings - [ANN + embeddings](https://github.com/namanmanchanda09/pytorch-basics/blob/main/Notebooks/04a-Full-ANN-Code-Along-Regression.ipynb).
